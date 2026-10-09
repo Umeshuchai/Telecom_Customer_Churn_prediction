@@ -30,7 +30,6 @@ Explore customer data and build machine learning models to predict whether a tel
 
 * Python
 * Pandas
-* NumPy
 * Matplotlib & Seaborn
 * Scikit-learn
 * Jupyter Notebook
