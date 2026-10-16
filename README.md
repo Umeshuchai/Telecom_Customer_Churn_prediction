@@ -24,7 +24,7 @@ Explore customer data and build machine learning models to predict whether a tel
 
 * Logistic Regression
 * Random Forest
-* Support Vector Machine (SVM)
+* XGBoost
 
 ## Tools & Libraries
 
