@@ -9,16 +9,16 @@ My first machine learning project, built while learning the fundamentals of ML w
 
 ## Objective
 
-Explore customer data and build machine learning models to predict whether a telecom customer is likely to churn.
+Explore customer data and build machine learning models to predict whether a telecom customer is likely to churn and then anaylze features.
 
 ## What I'm Learning
 
 * Data preprocessing and exploratory data analysis (EDA)
-* Feature encoding and scaling
+* Feature engineering
 * Feature selection using mutual information
-* Correlation analysis
 * Training and comparing classification models
-* Evaluating models using accuracy and F1-score
+* Evaluating models using roc_auc,confusion_matrix,classification_report
+* Evaluating features with feature_mportance,permutation_importance  and shap
 
 ## Models
 
@@ -33,6 +33,9 @@ Explore customer data and build machine learning models to predict whether a tel
 * Matplotlib & Seaborn
 * Scikit-learn
 * Jupyter Notebook
+* shap
+* functools
+* xgboost
 
 ## Project Status
 
